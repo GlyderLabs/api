@@ -17,7 +17,7 @@
     "@cmdcode/tapscript": "^1.4.6",
     "@mempool/mempool.js": "^3.0.0",
     "@pinata/sdk": "^2.1.0",
-    "agentic-automation-lib": "^1.0.3",
+    "agentic-automation-lib": "^1.0.7",
     "axios": "^1.7.9",
     "bcrypt": "^5.1.1",
     "bech32": "^2.0.0",
